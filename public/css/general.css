@@ -1,0 +1,22 @@
+*
+        {
+        margin: 0;
+        }
+a
+        {
+        text-decoration: none;
+        }
+li
+        {
+        list-style-type: none;
+        }
+ul, ol
+        {
+        padding: 0;
+        }
+h1
+        {
+        font-family: 'Raleway', sans-serif; 
+        font-size: 72px; 
+        text-transform: uppercase;      
+        }
